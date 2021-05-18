@@ -159,7 +159,7 @@ Number of completed merge operations, such as `0`.
 Number of merged documents, such as `0`.
 
 `merges.total_size`, `mts`, `mergesTotalSize`::
-Size of current merges, such as `0b`.
+Size of total merges, such as `0b`.
 
 `merges.total_time`, `mtt`, `mergesTotalTime`::
 Time spent merging documents, such as `0s`.
